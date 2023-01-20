@@ -8,11 +8,11 @@ const NavBar = () => {
   const links = [
     {
       id: 1,
-      link: 'home',
+      link: 'accueil',
     },
     {
       id: 2,
-      link: 'about',
+      link: 'présentation',
     },
     {
       id: 3,
