@@ -26,7 +26,7 @@ const Portfolio = () => {
       id: 3,
       src: kevflix,
       alt: 'site basé sur The Movie Database',
-      demo: 'https://mern-movies.vercel.app/',
+      demo: 'https://kevflix-mu.vercel.app/',
       code: 'https://github.com/Didi518/mern-movie-app',
     },
     {
